@@ -1,6 +1,6 @@
 ## Olá, eu sou a Amanda Raiane!
 
-- 🔭 Atualmente estou trabalhando como analista de suporte front-end
+- 🔭 Atualmente estou trabalhando como FrontEnd Developer
 - 🌱 Estou aprendendo sobre JS, Git e Linux
 - 💬 Você pode falar comigo por <a href="https://www.linkedin.com/in/amanda-raiane" target="_blank">este link</a> 
 - 😄 Gosto de estudar e praticar design gráfico
