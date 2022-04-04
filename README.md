@@ -1,4 +1,4 @@
-## Olá, eu sou a Amanda Raiane!
+# Olá, eu sou a Amanda Raiane!
 
 - 🔭 Atualmente estou trabalhando como FrontEnd Developer
 - 🌱 Estou aprendendo sobre JS, Git e Linux
@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### 📈 Minhas estatísticas
 <div align="center">
   <a href="https://github.com/amandaraiane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaraiane&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaraiane&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+  ### 💡 Tecnologias
+  *Existem algumas das tecnologias e ferramentas com as quais trabalho:*
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 </div>
   
   ##
-  
+  ### 😊 Minhas redes
   <div> 
       <a href="https://www.linkedin.com/in/amanda-raiane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/amandaraiane_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
