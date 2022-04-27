@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaraiane&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div> -->
 
-  ##
   ### 💡 Tecnologias
   *Algumas tecnologias e ferramentas com as quais trabalho:*
   <div style="display: inline_block"><br>
