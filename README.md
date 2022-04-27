@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaraiane&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div> -->
 
-  ### 💡 Tecnologias
-  *Algumas tecnologias e ferramentas com as quais trabalho:*
+  ### 💡 Tecnologias e ferramentas que utilizo
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
