@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
-### 📈 Minhas estatísticas
-<div align="center">
+<!-- <span>### 📈 Minhas estatísticas</span> -->
+<!-- <div align="center">
   <a href="https://github.com/amandaraiane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaraiane&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaraiane&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
   ##
   ### 💡 Tecnologias
